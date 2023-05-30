@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-on-Global-Terrorism-
+# Exploratory Data Analysis on Global Terrorism
 
 Terrorism is a complex political and social phenomenon. Terrorist attacks have a significant threat to the safety and security of the international community and have become one of the greatest obstacles to the sustainable development of global social security. According to statistics from the Global Terrorism Database (GTD), more than 200,000 terrorist attacks have been recorded from 1970 till 2017. Terrorist attacks typically involve high lethality and destructive power and directly cause massive casualties and property losses. In addition, they bring tremendous psychological pressure on people. In summary, terrorist attacks result in social unrest to a certain extent, obstructing the regular order of work and life and thus greatly hindering economic development.
 
